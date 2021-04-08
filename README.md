@@ -1,6 +1,6 @@
-# Raspberry Pi Pico dual Channel Relay Board / HAT
+# Raspberry Pi Pico 3V Relay HAT
 
-Pico Relay 3V HAT is a Two-Channel high-quality relay with loads of 7A/ 250 VAC and 15A/ 120 VAC and the Switching Voltage(VAC) of 10A/ 250V and Switching Voltage(VDC) of 10A/ 30V.
+Pico 3V Relay HAT is a Two-Channel high-quality relay with loads of 2A/ 120V Switching Voltage(VAC) and 2A/ 24V Switching Voltage(VDC).
 
 <img src="" />
 
@@ -15,18 +15,18 @@ Total Relay : 2 CHANNEL
 
 ### Requirements
 
-* Raspberry Pi Pico Relay 3V HAT: (Buy it from : https://shop.sb-components.co.uk/products/pico-dual-channel-relay-hat  )
+* Raspberry Pi Pico 3V Relay HAT: (Buy it from : https://shop.sb-components.co.uk/products/pico-dual-channel-relay-hat  )
 * Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header )
 * USB Cable
 * Jumper Cables (optional)
 
 ### Steps :
 
-* Stack Raspberry Pi Pico on female header of Pico Relay 3V HAT.
+* Stack Raspberry Pi Pico on female header of Pico 3V Relay HAT.
 * Connect USB cable on Raspberry Pi Pico USB port.
-* Now use example code "test.py" from Pico Relay 3V HAT's github repository in any micropython supported ide (preferred thonny ide).
+* Now use example code "test.py" from Pico 3V Relay HAT's github repository in any micropython supported ide (preferred thonny ide).
 * Copy paste code in ide and choose interpreter as MicroPython (Raspberry Pi pico).
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
 
-* Click on green play button to run example of Pico Relay 3V HAT.
+* Click on green play button to run example of Pico 3V Relay HAT.
