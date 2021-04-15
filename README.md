@@ -2,7 +2,7 @@
 
 Pico 3V Relay HAT is a Two-Channel high-quality relay with loads of 2A/ 120V Switching Voltage(VAC) and 2A/ 24V Switching Voltage(VDC).
 
-<img src="" />
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/products/3vPicoRelayBoard_700x.png" />
 
 ## How to use ?
 
